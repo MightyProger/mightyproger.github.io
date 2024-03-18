@@ -82,6 +82,17 @@
 	color: white;
 }
 
+#services2 {
+	background-image: url(../img/dark_background.png);
+}
+
+#services2 h4 {
+	color: white;
+}
+
+#services2 h2 {
+	color: white;
+}
 
 /* Contact form */
 
