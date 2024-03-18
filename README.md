@@ -1,1 +1,0 @@
-# mightyproger.github.io
