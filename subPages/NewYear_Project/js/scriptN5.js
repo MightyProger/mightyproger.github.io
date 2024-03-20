@@ -1,1 +1,0 @@
-document.getElementById('result_N5').innerHTML += window.name + "/1300 баллов!";
