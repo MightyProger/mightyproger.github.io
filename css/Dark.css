@@ -9,43 +9,6 @@
 }
 
 
-/* SVG */
-#skills_svg {
-	fill: #7C3F8E;
-	background-image: url(../img/dark_background.png);
-}
-
-#portfolio_svg1 {
-	fill: #7C3F8E;
-	background-color: #222222;
-}
-
-#portfolio_svg2 {
-	fill: #7C3F8E;
-	background-color: #222222;
-}
-
-#services_svg {
-	fill: #7C3F8E;
-	background-image: url(../img/dark_background.png);
-}
-
-
-/* About me  */
-
-#skills {
-	background-image: url(../img/dark_background.png);
-}
-
-#skills h4 {
-	color: white;
-}
-
-#skills h2 {
-	color: white;
-}
-
-
 /* About me, Portfolio, Services */
 
 .descr {
@@ -56,7 +19,7 @@
 /* Portfolio */
 
 #portfolio {
-	background-color: #222222;
+	background-color: #1c1c1c;
 }
 
 #portfolio h4 {
@@ -67,30 +30,17 @@
 	color: white;
 }
 
+/* Algorithms */
 
-/* Services */
-
-#services {
-	background-image: url(../img/dark_background.png);
+#algo {
+	background-color: #1c1c1c;
 }
 
-#services h4 {
+#algo h4 {
 	color: white;
 }
 
-#services h2 {
-	color: white;
-}
-
-#services2 {
-	background-image: url(../img/dark_background.png);
-}
-
-#services2 h4 {
-	color: white;
-}
-
-#services2 h2 {
+#algo h2 {
 	color: white;
 }
 
